@@ -1,0 +1,59 @@
+//this style is to increase the bottom box near the slider
+.camping-service-box {
+  margin-top: -8%;
+}
+
+.service-box-title {
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 2em;
+}
+
+.ratio {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  height: 0;
+  padding-bottom: 100%;
+  position: relative;
+  width: 100%;
+}
+.img-circle {
+  border-radius: 50%;
+}
+.img-responsive {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+.service-card{
+  padding: 0% 8% 0% 0%;
+}
+
+.facilities .list-group-item {
+    background: transparent; 
+}
+.site-text {
+  color: #ffffff;
+}
+
+.booking {
+  background-image: url('https://firebasestorage.googleapis.com/v0/b/lakshmi-53afa.appspot.com/o/book2.jpg?alt=media&token=32b1bf59-70d5-42a4-87b4-52c456342382');
+
+}
+
+.centered-form{
+	margin-top: 60px;
+}
+
+.centered-form .panel{
+	background: rgba(255, 255, 255, 0.8);
+	box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+}
+
+.booking-form{
+  padding: 5%;
+  width: 60%;
+}
